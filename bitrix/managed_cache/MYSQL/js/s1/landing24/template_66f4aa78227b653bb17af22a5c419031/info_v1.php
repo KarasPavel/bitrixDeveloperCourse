@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/templates/landing24/assets/vendor/vendors_base.js" => "1562759101266649",); ?>
