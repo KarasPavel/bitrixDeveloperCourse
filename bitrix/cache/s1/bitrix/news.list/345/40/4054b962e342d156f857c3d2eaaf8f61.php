@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563777554';
-$dateexpire = '001563781154';
+$datecreate = '001563789435';
+$dateexpire = '001563793035';
 $ser_content = 'a:2:{s:7:"CONTENT";s:409:"
 <div class="sb_action">
             <a href="/promotions/?ELEMENT_ID=42"><img src="/upload/iblock/d9d/d9d6ac2cc53010a2fc9f68a277d2afed.jpg" alt=""/></a>

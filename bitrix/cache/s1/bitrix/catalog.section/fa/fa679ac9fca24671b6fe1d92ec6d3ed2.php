@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563519851';
-$dateexpire = '001563523451';
+$datecreate = '001563789418';
+$dateexpire = '001563793018';
 $ser_content = 'a:2:{s:7:"CONTENT";s:10761:"<div class="bx_catalog_list_home col3 bx_blue">
 	<div class="bx-section-desc">
 		<p class="bx-section-desc-post">Кровати, стулья, мягкая детская мебель</p>

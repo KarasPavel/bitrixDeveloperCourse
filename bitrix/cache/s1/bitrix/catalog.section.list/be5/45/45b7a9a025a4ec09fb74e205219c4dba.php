@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563519851';
-$dateexpire = '001563523451';
+$datecreate = '001563789418';
+$dateexpire = '001563793018';
 $ser_content = 'a:2:{s:7:"CONTENT";s:149:"<div class="bx_sitemap"><h1
 		class="bx_sitemap_title"
 		id="bx_1847241719_4"

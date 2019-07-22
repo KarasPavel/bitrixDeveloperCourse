@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563777556';
-$dateexpire = '001563781156';
+$datecreate = '001563789150';
+$dateexpire = '001563792750';
 $ser_content = 'a:2:{s:7:"CONTENT";s:740:"<div class="cn_hp_lastnews">
     <h3><a href="/news/">Новости</a></h3>
     <ul>

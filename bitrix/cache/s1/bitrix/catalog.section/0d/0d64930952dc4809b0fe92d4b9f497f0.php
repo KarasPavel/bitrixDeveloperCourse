@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563539290';
-$dateexpire = '001563542890';
-$ser_content = 'a:2:{s:7:"CONTENT";s:14318:"<div class="bx_catalog_list_home col3 bx_blue">
+$datecreate = '001563800132';
+$dateexpire = '001563803732';
+$ser_content = 'a:2:{s:7:"CONTENT";s:14414:"<div class="bx_catalog_list_home col3 bx_blue">
 	<div class="bx-section-desc">
 		<p class="bx-section-desc-post">Диваны, столы, стулья</p>
 	</div><div class="bx_catalog_item double"><div class="bx_catalog_item_container" id="bx_3966226736_20">
@@ -55,6 +55,8 @@ BX.message({
 			<span class="navigation-title">Страницы:</span>
 				<span class="nav-current-page">1</span>
 				<a href="/products/office/?PAGEN_1=2">2</a>
+				<a href="/products/office/?PAGEN_1=3">3</a>
+				<a href="/products/office/?PAGEN_1=4">4</a>
 		</div>
 </div>
 <script type="text/javascript">
@@ -81,7 +83,7 @@ BX.message({
 		if (link && link.href)
 			document.location = link.href;
 	});
-</script>";s:4:"VARS";a:2:{s:8:"arResult";a:8:{s:2:"ID";s:1:"2";s:15:"NAV_CACHED_DATA";N;s:10:"NAV_STRING";s:1195:"<div class="navigation">
+</script>";s:4:"VARS";a:2:{s:8:"arResult";a:8:{s:2:"ID";s:1:"2";s:15:"NAV_CACHED_DATA";N;s:10:"NAV_STRING";s:1291:"<div class="navigation">
 		<div class="navigation-arrows">
 			<span class="arrow">&larr;</span><span class="ctrl"> ctrl</span>&nbsp;<span class="disabled">Пред.</span>&nbsp;<a href="/products/office/?PAGEN_1=2" id="navigation_1_next_page">След.</a>&nbsp;<span class="ctrl">ctrl </span><span class="arrow">&rarr;</span>
 		</div>
@@ -90,6 +92,8 @@ BX.message({
 			<span class="navigation-title">Страницы:</span>
 				<span class="nav-current-page">1</span>
 				<a href="/products/office/?PAGEN_1=2">2</a>
+				<a href="/products/office/?PAGEN_1=3">3</a>
+				<a href="/products/office/?PAGEN_1=4">4</a>
 		</div>
 </div>
 <script type="text/javascript">
@@ -116,6 +120,6 @@ BX.message({
 		if (link && link.href)
 			document.location = link.href;
 	});
-</script>";s:4:"NAME";s:27:"Офисная мебель";s:17:"IBLOCK_SECTION_ID";N;s:16:"IPROPERTY_VALUES";a:3:{s:21:"SECTION_META_KEYWORDS";s:66:"Офисная мебель Диваны, столы, стулья";s:18:"ELEMENT_META_TITLE";s:29:" Офисная мебель ";s:21:"ELEMENT_META_KEYWORDS";s:21:"furniture_products_s1";}s:16:"BACKGROUND_IMAGE";b:0;s:19:"USE_CATALOG_BUTTONS";a:0:{}}s:18:"templateCachedData";a:7:{s:13:"additionalCSS";s:98:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/style.css";s:12:"additionalJS";s:98:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/script.js";s:9:"frameMode";b:1;s:16:"component_epilog";a:5:{s:10:"epilogFile";s:109:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/component_epilog.php";s:12:"templateName";s:8:".default";s:12:"templateFile";s:101:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/template.php";s:14:"templateFolder";s:88:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default";s:12:"templateData";a:4:{s:14:"TEMPLATE_THEME";s:110:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/themes/blue/style.css";s:14:"TEMPLATE_CLASS";s:7:"bx_blue";s:16:"TEMPLATE_LIBRARY";a:1:{i:0;s:5:"popup";}s:10:"CURRENCIES";s:0:"";}}s:8:"__NavNum";i:1;s:17:"__currentCounters";a:1:{s:28:"bitrix:system.pagenavigation";i:1;}s:13:"__editButtons";a:10:{i:0;a:5:{i:0;s:13:"AddEditAction";i:1;i:20;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:1;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:20;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:2;a:5:{i:0;s:13:"AddEditAction";i:1;i:19;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:3;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:19;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:4;a:5:{i:0;s:13:"AddEditAction";i:1;i:18;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:5;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:18;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:6;a:5:{i:0;s:13:"AddEditAction";i:1;i:17;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:7;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:17;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:8;a:5:{i:0;s:13:"AddEditAction";i:1;i:16;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:9;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:16;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}}}}}';
+</script>";s:4:"NAME";s:27:"Офисная мебель";s:17:"IBLOCK_SECTION_ID";N;s:16:"IPROPERTY_VALUES";a:3:{s:18:"ELEMENT_META_TITLE";s:29:" Офисная мебель ";s:21:"ELEMENT_META_KEYWORDS";s:21:"furniture_products_s1";s:21:"SECTION_META_KEYWORDS";s:66:"Офисная мебель Диваны, столы, стулья";}s:16:"BACKGROUND_IMAGE";b:0;s:19:"USE_CATALOG_BUTTONS";a:0:{}}s:18:"templateCachedData";a:7:{s:13:"additionalCSS";s:98:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/style.css";s:12:"additionalJS";s:98:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/script.js";s:9:"frameMode";b:1;s:16:"component_epilog";a:5:{s:10:"epilogFile";s:109:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/component_epilog.php";s:12:"templateName";s:8:".default";s:12:"templateFile";s:101:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/template.php";s:14:"templateFolder";s:88:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default";s:12:"templateData";a:4:{s:14:"TEMPLATE_THEME";s:110:"/bitrix/components/bitrix/catalog/templates/.default_old/bitrix/catalog.section/.default/themes/blue/style.css";s:14:"TEMPLATE_CLASS";s:7:"bx_blue";s:16:"TEMPLATE_LIBRARY";a:1:{i:0;s:5:"popup";}s:10:"CURRENCIES";s:0:"";}}s:8:"__NavNum";i:1;s:17:"__currentCounters";a:1:{s:28:"bitrix:system.pagenavigation";i:1;}s:13:"__editButtons";a:10:{i:0;a:5:{i:0;s:13:"AddEditAction";i:1;i:20;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:1;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:20;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:2;a:5:{i:0;s:13:"AddEditAction";i:1;i:19;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:3;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:19;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:4;a:5:{i:0;s:13:"AddEditAction";i:1;i:18;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:5;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:18;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:6;a:5:{i:0;s:13:"AddEditAction";i:1;i:17;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:7;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:17;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:8;a:5:{i:0;s:13:"AddEditAction";i:1;i:16;i:2;N;i:3;s:27:"Изменить товар";i:4;a:0:{}}i:9;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:16;i:2;N;i:3;s:25:"Удалить товар";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}}}}}';
 return true;
 ?>
