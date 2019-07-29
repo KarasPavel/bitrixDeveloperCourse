@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563550175';
-$dateexpire = '001563553775';
+$datecreate = '001564153550';
+$dateexpire = '001564157150';
 $ser_content = 'a:2:{s:7:"CONTENT";s:286:"<!--<h1 class="title"></h1>-->
         <img src="/upload/iblock/6ff/6ff410b4af26d4d765f80ef0c1bf31aa.jpg" align="left" alt=""/>
        <p>В 2010 году выставка Salon del Mobile обещает быть еще более расширенной и интересной. </p>

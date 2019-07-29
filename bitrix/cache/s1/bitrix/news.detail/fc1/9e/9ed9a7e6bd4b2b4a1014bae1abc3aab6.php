@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563524191';
-$dateexpire = '001563527791';
+$datecreate = '001564125089';
+$dateexpire = '001564128689';
 $ser_content = 'a:2:{s:7:"CONTENT";s:361:"<!--<h1 class="title"></h1>-->
         <img src="/upload/iblock/e3a/e3a456d1aed80d924abefbc6e56be904.jpg" align="left" alt=""/>
        <p>С 20 по 23 апреля 2010 года состоится <strong>Мебельный Форум Беларуси</strong> &ndash; важнейшее мероприятии отрасли в текущем году.</p>

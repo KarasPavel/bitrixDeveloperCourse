@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563800139';
-$dateexpire = '001563803739';
+$datecreate = '001564061946';
+$dateexpire = '001564065546';
 $ser_content = 'a:2:{s:7:"CONTENT";s:2426:"
     <div id="bx_3218110189_3">
 <div class="ps_head"><a class="ps_head_link" href="/news/3/"><h2 class="ps_head_h">Получено прочное водостойкое соединение</h2></a><span class="ps_date">27.05.2010</span></div>

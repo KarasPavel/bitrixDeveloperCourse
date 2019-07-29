@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001563797580';
-$dateexpire = '001563801180';
+$datecreate = '001564137767';
+$dateexpire = '001564141367';
 $ser_content = 'a:2:{s:7:"CONTENT";s:2701:"
 <script type="text/javascript" >
     $().ready(function(){
@@ -44,6 +44,6 @@ $ser_content = 'a:2:{s:7:"CONTENT";s:2701:"
             </div>
         </div>
             </div>
-</div>";s:4:"VARS";a:2:{s:8:"arResult";a:7:{s:2:"ID";s:1:"5";s:14:"IBLOCK_TYPE_ID";s:7:"content";s:13:"LIST_PAGE_URL";s:43:"#SITE_DIR#/content/index.php?ID=#IBLOCK_ID#";s:15:"NAV_CACHED_DATA";N;s:4:"NAME";s:14:"Слайдер";s:7:"SECTION";b:0;s:8:"ELEMENTS";a:3:{i:0;s:2:"35";i:1;s:2:"34";i:2;s:2:"33";}}s:18:"templateCachedData";a:4:{s:13:"additionalCSS";s:71:"/bitrix/templates/.default/components/bitrix/news.list/slider/style.css";s:9:"frameMode";b:1;s:8:"__NavNum";i:1;s:17:"__currentCounters";a:1:{s:28:"bitrix:system.pagenavigation";i:1;}}}}';
+</div>";s:4:"VARS";a:2:{s:8:"arResult";a:7:{s:2:"ID";s:1:"5";s:14:"IBLOCK_TYPE_ID";s:7:"content";s:13:"LIST_PAGE_URL";s:43:"#SITE_DIR#/content/index.php?ID=#IBLOCK_ID#";s:15:"NAV_CACHED_DATA";N;s:4:"NAME";s:14:"Слайдер";s:7:"SECTION";b:0;s:8:"ELEMENTS";a:3:{i:0;s:2:"35";i:1;s:2:"34";i:2;s:2:"33";}}s:18:"templateCachedData";a:4:{s:13:"additionalCSS";s:70:"/local/templates/.default/components/bitrix/news.list/slider/style.css";s:9:"frameMode";b:1;s:8:"__NavNum";i:1;s:17:"__currentCounters";a:1:{s:28:"bitrix:system.pagenavigation";i:1;}}}}';
 return true;
 ?>
